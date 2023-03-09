@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaniv Max Tzioni</h1>
 <h3 align="center">A passionate Ethical Hacker from Israel</h3>
 
-- 🌱 I’m currently learning **Android Hacking**
+- 🌱 I’m currently learning **WEB3 Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YMTzioni](https://github.com/YMTzioni)
 
